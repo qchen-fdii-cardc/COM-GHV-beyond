@@ -1,0 +1,26 @@
+baseURL = 'https://www.windtunel.cn'
+languageCode = 'en-us'
+title = 'Control-Oriented-Model of Generic Hypersonic Vehicle and beyond'
+theme = "hugo-book"
+
+[params]
+  gitsite = 'https://github.com/windtunel/COM-GHV-beyond'
+  maxImgSize = 400
+  math = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enables raw HTML in markdown
+
+  [markup.goldmark.parser]
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+  [markup.goldmark.extensions]
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)'], ['$', '$']]
+
