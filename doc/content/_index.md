@@ -12,12 +12,7 @@ weight: 1
 ## 面向控制的模型
 
 $$
-\begin{equation}
- \dot{h} = V \sin (\theta - \alpha) \\
- \dot{V} = \frac{1}{m} \left( F - D - m g \sin \theta \right) \\
- \dot{\theta} = \frac{1}{V} \left( L \cos \alpha + W \sin \theta \right) \\
- \dot{\alpha} = \frac{1}{V} \left( L \sin \alpha - W \cos \theta \right)
-\end{equation}
+f(x)
 $$
 
 这个名称是一个在高超声速飞行器建模、控制、仿真领域中常用的名称，来源于Parker等[^parker2007]的一篇高引的文章。
