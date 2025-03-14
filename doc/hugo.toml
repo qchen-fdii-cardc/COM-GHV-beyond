@@ -4,7 +4,7 @@ title = 'Control-Oriented-Model of Generic Hypersonic Vehicle and beyond'
 theme = "hugo-book"
 
 [params]
-  gitsite = 'https://github.com/windtunel/COM-GHV-beyond'
+  gitsite = 'https://github.com/qchen-fdii-cardc/COM-GHV-beyond'
   maxImgSize = 400
 
 [markup]

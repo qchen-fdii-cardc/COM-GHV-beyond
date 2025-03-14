@@ -11,9 +11,10 @@ weight: 1
 
 ## 面向控制的模型
 
-$$
-f(x)
-$$
+Shaughnessy[^Shaughnessy1990]报告了面元法计算的Winged-cone高超声速飞行器模型，这些数据是后续研究的基础。
+
+[^Shaughnessy1990]: SHAUGHNESSY J D, PINCKNEY S Z, MCMINN J D, 等. Hypersonic vehicle simulation model: Winged-cone configuration: NAS 1.15:102610[R/OL]. (1990-11-01)[2025-03-12]. https://ntrs.nasa.gov/citations/19910003392.
+
 
 这个名称是一个在高超声速飞行器建模、控制、仿真领域中常用的名称，来源于Parker等[^parker2007]的一篇高引的文章。
 
