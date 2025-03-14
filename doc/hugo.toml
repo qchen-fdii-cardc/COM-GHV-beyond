@@ -1,4 +1,4 @@
-baseURL = 'https://www.windtunel.cn'
+baseURL = 'https://www.windtunel.cn/COM-GHV-beyond/'
 languageCode = 'en-us'
 title = 'Control-Oriented-Model of Generic Hypersonic Vehicle and beyond'
 theme = "hugo-book"
