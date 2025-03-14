@@ -14,6 +14,6 @@ The
 
 ## 方法与数据
 
-![Winged-cone高超声速飞行器构型](/Shaughnessy1990/configuration.png)
+![Winged-cone高超声速飞行器构型](/COM-GHV-beyond/shaughnessy1990/configuration.png)
 
 ## 结果
